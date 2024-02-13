@@ -10,4 +10,4 @@ else:
         factorial *= i
     
   
-    print("Factorial of",  ":", factorial)
+    print("Factorial of", n, ":", factorial)
